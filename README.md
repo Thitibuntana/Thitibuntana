@@ -3,6 +3,7 @@
 
 <hr/>
 
+* Pardon my lack of human face on my profile or anywhere else. I value my privacy and I think that these informations shouldn't be accessible as easily!
 * You can contact me via Email. (jetblacktadpole963582@gmail.com) If I do not reply then that means I have not seen it yet!
 * I have extensive experience in various programming languages, frameworks and tools (React, JS, TS, Next.js, Flutter, AI Usage and Development, etc.) and still learning!
 
